@@ -21,6 +21,6 @@ Each folder or markdown file represents a concept, technology, or project I’ve
 ## 🌱 Learning Resources
 
 A few great resources I’m following:
--[HTML CSS Full Course by SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=22127s)
+- [HTML CSS Full Course by SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=22127s)
 
 
